@@ -1,0 +1,20 @@
+*
+{
+	margin:0px;
+	padding:0px;
+
+}
+#sidebar{
+	position: fixed;
+	height: 100%;
+	width: 200px;
+	background-color: #f8f9fa!important;
+
+}
+#sidebar >.list >. item{
+	color: white;
+	padding: 10px 8px;
+	border-bottom: 1px solid #444;
+	font-family: sans-serif;
+	text-transform: uppercase;
+}
